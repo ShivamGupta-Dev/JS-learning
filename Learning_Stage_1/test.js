@@ -7,3 +7,6 @@ console.log(accountEmail); //Comment Python<<<<<<<<JS
 
 console.table([accountEmail, accountId, accountVerified, password]);
 
+/*
+ Multiline comment 
+*/
